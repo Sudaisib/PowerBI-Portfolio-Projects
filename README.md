@@ -18,15 +18,22 @@ This portfolio is a practical demonstration of my **Data Analytics & Business In
 
  🔹 **[Project 1: Global Electronics Retailer Analysis](#-project-1-global-electronics-retailer-analysis)**
  🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-dashboard)**
+ 
  🔹 **[Project 3: Bank Customer Churn Insights](#-project-3-bank-customer-churn-insights)**
  🔹 **[Project 4: Amazon Product Performance](#-project-4-amazon-product-performance)**
+ 
  🔹 **[Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-dashboard)**
 
 3️⃣ **[📂 Getting Started](#-getting-started)**
+
 4️⃣ **[🛠 Technologies & Tools](#-technologies--tools)**
+
 5️⃣ **[🧠 Power BI Best Practices](#-power-bi-best-practices)**
+
 6️⃣ **[⚙️ Troubleshooting & Performance](#-troubleshooting--performance)**
+
 7️⃣ **[📜 Documentation & Learning Resources](#-documentation--learning-resources)**
+
 8️⃣ **[📩 Contact Information](#-contact-information)**
 
 📖 **[Jump to Table of Contents](#-table-of-contents-🗂️)**
@@ -41,8 +48,10 @@ Hello! I'm **Oladosu Ibrahim**, a **Data Analyst and Business Intelligence Devel
 
 ✔ 🏆 **Microsoft Certified Power BI Data Analyst Associate**
 ✔ 🏆 **Azure Fundamentals | Azure Data Fundamentals**
+
 ✔ 📊 **Data Modeling, DAX, Power Query**
 ✔ 📂 **SQL & Data Warehousing**
+
 ✔ 🧠 **Data Cleaning, Visual Analytics, KPI Design**
 
 This repository features **real-world Power BI projects** with professional-grade dashboards and detailed documentation.
