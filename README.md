@@ -75,7 +75,7 @@ This repository features **real-world Power BI projects** with professional-grad
 * Trendline and decomposition tree
 
 🛠 **Technologies Used**: Power BI, DAX, Power Query
-📖 **[View Project](#)**
+📖 **[View Project](#https://github.com/Sudaisib/PowerBI-Portfolio-Projects/tree/main/Global%20Electronics%20Retailer%20Analysis)**
 
 ---
 
