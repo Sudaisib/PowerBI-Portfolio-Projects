@@ -226,7 +226,7 @@ Encourage reskilling programs for low-income workers to transition into high-pay
 ## ✍️ Author
 
 **Oladosu Ibrahim Adeniyi**
-*Data Analyst | Financial & Cloud Enthusiast | Educator at CodeSphere Academy*
+*Data Analyst | Financial & Cloud Enthusiast | Founder/CEO, CodeSphere Nexus Ltd.*
 
 📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
 🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
