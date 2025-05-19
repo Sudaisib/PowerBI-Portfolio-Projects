@@ -19,7 +19,7 @@ This portfolio is a practical demonstration of my **Data Analytics & Business In
  🔹 **[Project 1: Global Electronics Retailer Analysis](#-project-1-global-electronics-retailer-analysis)**
  🔹 **[Project 2: Adult Census Income in USA Analysis](#-project-2-airline-passenger-satisfaction-dashboard)**
  
- 🔹 **[Project 3: Bank Customer Churn Insights](#-project-3-bank-customer-churn-insights)**
+ 🔹 **[Project 3: UK Train Rides Analysis](#-project-3-uk-train-rides-analysis)**
  🔹 **[Project 4: Amazon Product Performance](#-project-4-amazon-product-performance)**
  
  🔹 **[Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-dashboard)**
@@ -96,7 +96,7 @@ This repository features **real-world Power BI projects** with professional-grad
 
 ---
 
-### 🔹 **Project 3: Bank Customer Churn Insights**
+### 🔹 **Project 3: UK Train Rides Analysis**
 
 📌 **Description**: A visual report tracking **customer churn patterns and behavioral drivers**, helping banks develop customer retention strategies.
 
@@ -108,7 +108,7 @@ This repository features **real-world Power BI projects** with professional-grad
 * DAX for customer KPIs
 
 🛠 **Technologies Used**: Power BI, DAX, SQL
-📖 **[View Project](#)**
+📖 **[View Project](#https://github.com/Sudaisib/PowerBI-Portfolio-Projects/tree/main/UK%20Train%20Rides%20Analysis)**
 
 ---
 
