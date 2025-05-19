@@ -17,7 +17,7 @@ This portfolio is a practical demonstration of my **Data Analytics & Business In
 2️⃣ **[📚 Projects Overview](#-projects-overview-🏗️)**
 
  🔹 **[Project 1: Global Electronics Retailer Analysis](#-project-1-global-electronics-retailer-analysis)**
- 🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-dashboard)**
+ 🔹 **[Project 2: Adult Census Income in USA Analysis](#-project-2-airline-passenger-satisfaction-dashboard)**
  
  🔹 **[Project 3: Bank Customer Churn Insights](#-project-3-bank-customer-churn-insights)**
  🔹 **[Project 4: Amazon Product Performance](#-project-4-amazon-product-performance)**
@@ -79,7 +79,7 @@ This repository features **real-world Power BI projects** with professional-grad
 
 ---
 
-### 🔹 **Project 2: Airline Passenger Satisfaction Dashboard**
+### 🔹 **Project 2: Adult Census Income in USA Analysis**
 
 📌 **Description**: An interactive report showing **customer satisfaction across demographics, service types, and flight classes**. Ideal for operational improvements and customer experience optimization.
 
@@ -92,7 +92,7 @@ This repository features **real-world Power BI projects** with professional-grad
 * Data transformation via Power Query
 
 🛠 **Technologies Used**: Power BI, Power Query
-📖 **[View Project](#)**
+📖 **[View Project](#https://github.com/Sudaisib/PowerBI-Portfolio-Projects/tree/main/Adult%20Census%20Income%20in%20USA)**
 
 ---
 
