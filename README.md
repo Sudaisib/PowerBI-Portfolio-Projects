@@ -25,9 +25,7 @@ Whether you’re a recruiter, stakeholder, or fellow data enthusiast, this colle
   
   🔹 [**Project 3: UK Train Rides Analysis**](#-project-3-uk-train-rides-analysis)
   
-  🔹 [**Project 4: Amazon Product Performance**](#-project-4-amazon-product-performance)
-  
-  🔹 [**Project 5: CRM Sales Opportunities Analysis**](#-project-5-crm-sales-opportunities-analysis)
+  🔹 [**Project 4: CRM Sales Opportunities Analysis**](#-project-5-crm-sales-opportunities-analysis)
 
 3️⃣ **[📂 Getting Started](#-getting-started)**
 
@@ -101,23 +99,7 @@ Each project is structured with its `.pbix` file, a well-documented `README`, vi
 
 ---
 
-### 🔹 **Project 4: Amazon Product Performance**
-
-📌 **Description**: A comprehensive sales analysis for Amazon product listings. It uncovers trends in **sales volume, returns, product category performance, and customer behavior by region and seasonality**.
-
-🔹 **Key Features:**
-
-* Sales KPIs and profit trendlines
-* Product category decomposition
-* Forecasting via analytics tools
-* Region-wise performance visualization
-
-🛠 **Tools**: Power BI, Excel, DAX
-📖 **[View Project](#)** *(Link to be added when ready)*
-
----
-
-### 🔹 **Project 5: CRM Sales Opportunities Analysis**
+### 🔹 **Project 4: CRM Sales Opportunities Analysis**
 
 📌 **Description**: This dashboard supports sales teams by analyzing **sales pipeline stages, opportunity values, lead conversion rates, and regional deal performance**. It helps optimize CRM processes and identify high-value opportunities.
 
