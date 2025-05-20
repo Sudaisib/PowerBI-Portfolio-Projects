@@ -14,20 +14,31 @@ Whether you’re a recruiter, stakeholder, or fellow data enthusiast, this colle
 ## 📌 **Table of Contents** 🗂️
 
 1️⃣ **[👨‍💻 About Me](#-about-me-🌍)**
+
   🔹 [**Certifications & Expertise**](#-certifications--expertise)
 
 2️⃣ **[📚 Projects Overview](#-projects-overview-🏗️)**
+
   🔹 [**Project 1: Global Electronics Retailer Analysis**](#-project-1-global-electronics-retailer-analysis)
+  
   🔹 [**Project 2: Adult Census Income in USA Analysis**](#-project-2-adult-census-income-in-usa-analysis)
+  
   🔹 [**Project 3: UK Train Rides Analysis**](#-project-3-uk-train-rides-analysis)
+  
   🔹 [**Project 4: Amazon Product Performance**](#-project-4-amazon-product-performance)
+  
   🔹 [**Project 5: CRM Sales Opportunities Analysis**](#-project-5-crm-sales-opportunities-analysis)
 
 3️⃣ **[📂 Getting Started](#-getting-started)**
+
 4️⃣ **[🛠 Technologies & Tools](#-technologies--tools)**
+
 5️⃣ **[🧠 Power BI Best Practices](#-power-bi-best-practices)**
+
 6️⃣ **[⚙️ Troubleshooting & Performance](#-troubleshooting--performance)**
+
 7️⃣ **[📜 Documentation & Learning Resources](#-documentation--learning-resources)**
+
 8️⃣ **[📩 Contact Information](#-contact-information)**
 
 📖 [**Jump to Table of Contents**](#-table-of-contents-🗂️)
