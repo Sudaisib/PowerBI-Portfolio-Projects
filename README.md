@@ -25,7 +25,7 @@ Whether you’re a recruiter, stakeholder, or fellow data enthusiast, this colle
   
   🔹 [**Project 3: UK Train Rides Analysis**](#-project-3-uk-train-rides-analysis)
   
-  🔹 [**Project 4: CRM Sales Opportunities Analysis**](#-project-5-crm-sales-opportunities-analysis)
+  🔹 [**Project 4: CRM Sales Opportunities Analysis**](#-project-4-crm-sales-opportunities-analysis)
 
 3️⃣ **[📂 Getting Started](#-getting-started)**
 
